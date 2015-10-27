@@ -1,3 +1,4 @@
-# ignore key.py to prevent publishing access keys
+# ignore keyfile.py to prevent publishing access keys
 
-key.py
+keyfile.py
+*.pyc
